@@ -51,7 +51,7 @@ Features include:
 - Metadata Extraction
 
 Repository:
-- ImgKIT
+- [ImgKIT](https://github.com/marehmann-ml/ImgKIT)
 
 ---
 
