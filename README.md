@@ -1,16 +1,64 @@
-## Hi there 👋
+# Hi, I'm M.A. Rehman Naseer 👋
 
-<!--
-**marehmann-ml/marehmann-ml** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+ML Intern focused on:
+- Digital Image Processing
+- Geospatial & Raster Data
+- Remote Sensing
+- Computer Vision
+- Python-based Tool Development
 
-Here are some ideas to get you started:
+Currently working on:
+- ImgKIT → Image Manipulation & GeoTIFF Processing Tool
+- Image Processing Workflows
+- Raster & Satellite Data Understanding
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+# Tech Stack
+
+- Python
+- NumPy
+- OpenCV
+- scikit-image
+- rasterio
+- Streamlit
+- matplotlib
+
+---
+
+# Current Learning
+
+- Digital Image Processing
+- Geospatial Data Handling
+- Resampling & Interpolation
+- Histogram Analysis
+- SDLC Workflow
+- System Design Basics
+
+---
+
+# Featured Project
+
+## ImgKIT
+A lightweight image manipulation and geospatial raster processing tool built using Python and Streamlit.
+
+Features include:
+- GeoTIFF Support
+- Multi-output Processing
+- Histogram Visualization
+- Bit Depth Conversion
+- Resampling Methods
+- Metadata Extraction
+
+Repository:
+- ImgKIT
+
+---
+
+# Interests
+
+- Space Technology
+- Remote Sensing
+- AI/ML Applications
+- Image Processing
+- Geospatial Systems
