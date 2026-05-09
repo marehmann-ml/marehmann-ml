@@ -54,11 +54,3 @@ Repository:
 - [ImgKIT](https://github.com/marehmann-ml/ImgKIT)
 
 ---
-
-# Interests
-
-- Space Technology
-- Remote Sensing
-- AI/ML Applications
-- Image Processing
-- Geospatial Systems
