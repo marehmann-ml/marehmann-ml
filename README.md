@@ -7,11 +7,6 @@ ML Intern focused on:
 - Computer Vision
 - Python-based Tool Development
 
-Currently working on:
-- ImgKIT → Image Manipulation & GeoTIFF Processing Tool
-- Image Processing Workflows
-- Raster & Satellite Data Understanding
-
 ---
 
 # Tech Stack
