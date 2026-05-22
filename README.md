@@ -1,10 +1,10 @@
 # Hi, I'm M.A. Rehman Naseer 👋
 
-ML Intern focused on:
-- Digital Image Processing
+ML Intern exploring:
+- Image Processing
+- Computer Vision
 - Geospatial & Raster Data
 - Remote Sensing
-- Computer Vision
 - Python-based Tool Development
 
 ---
@@ -12,8 +12,8 @@ ML Intern focused on:
 # Tech Stack
 
 - Python
-- NumPy
 - OpenCV
+- NumPy
 - scikit-image
 - rasterio
 - Streamlit
@@ -21,31 +21,43 @@ ML Intern focused on:
 
 ---
 
-# Current Learning
+# Current Focus
 
 - Digital Image Processing
-- Geospatial Data Handling
-- Resampling & Interpolation
-- Histogram Analysis
-- SDLC Workflow
-- System Design Basics
+- OpenCV & YOLOv8
+- Object Detection
+- Raster & GeoTIFF Handling
+- Dataset Preprocessing
+- Computer Vision Workflows
 
 ---
 
-# Featured Project
+# Featured Projects
 
 ## ImgKIT
-A lightweight image manipulation and geospatial raster processing tool built using Python and Streamlit.
+Lightweight image manipulation and geospatial raster processing tool built using Python and Streamlit.
 
-Features include:
+Features:
 - GeoTIFF Support
-- Multi-output Processing
-- Histogram Visualization
-- Bit Depth Conversion
+- Histogram Analysis
 - Resampling Methods
+- Multi-output Workflow
 - Metadata Extraction
 
-Repository:
-- [ImgKIT](https://github.com/marehmann-ml/ImgKIT)
+🔗 Repository:  
+[ImgKIT](https://github.com/marehmann-ml/ImgKIT)
 
 ---
+
+## OpenCV - Practice
+Practical OpenCV and YOLOv8 experiments focused on object detection, preprocessing, and custom human detection workflows.
+
+Topics:
+- OpenCV Fundamentals
+- YOLOv8 Inference
+- VisDrone Preprocessing
+- Custom Human Detection
+- Video Inference Pipelines
+
+🔗 Repository:  
+[OpenCV - Practice](https://github.com/marehmann-ml/OpenCV%20-%20Practice)
