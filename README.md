@@ -60,4 +60,6 @@ Topics:
 - Video Inference Pipelines
 
 🔗 Repository:  
-[OpenCV - Practice](https://github.com/marehmann-ml/OpenCV%20-%20Practice)
+[OpenCV - Practice](https://github.com/marehmann-ml/OpenCV-Practice.git)
+
+
