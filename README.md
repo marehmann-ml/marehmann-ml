@@ -3,6 +3,7 @@
 ML Intern exploring:
 - Image Processing
 - Computer Vision
+- OpenCV
 - Geospatial & Raster Data
 - Remote Sensing
 - Python-based Tool Development
