@@ -1,4 +1,4 @@
-# Hi, I'm M.A. Rehman Naseer 👋
+# Hi, I'm, MA Rehman Naseer 👋
 
 ML Intern exploring:
 - Image Processing
