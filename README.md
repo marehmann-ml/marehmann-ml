@@ -3,6 +3,7 @@
 ML Intern exploring:
 - Image Processing
 - Computer Vision
+- Object Detection & Tracking
 - OpenCV
 - Geospatial & Raster Data
 - Remote Sensing
