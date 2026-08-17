@@ -26,6 +26,7 @@ ML Intern exploring:
 # Current Focus
 
 - Digital Image Processing
+- Object Tracking
 - OpenCV & YOLOv8
 - Object Detection
 - Raster & GeoTIFF Handling
