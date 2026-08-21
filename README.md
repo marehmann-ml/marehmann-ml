@@ -53,7 +53,6 @@ Features:
 
 ---
 
-
 ## OpenCV - Practice
 Practical OpenCV and YOLOv8 experiments focused on object detection, preprocessing, and custom human detection workflows.
 
