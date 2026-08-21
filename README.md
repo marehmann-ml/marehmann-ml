@@ -10,7 +10,6 @@ ML Intern exploring:
 - Python-based Tool Development
 ---
 
-
 # Tech Stack
 
 - Python
