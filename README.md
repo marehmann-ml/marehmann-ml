@@ -20,6 +20,7 @@ ML Intern exploring:
 - rasterio
 - Streamlit
 - matplotlib
+- QGIS
 
 ---
 
