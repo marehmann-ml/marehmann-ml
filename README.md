@@ -2,6 +2,7 @@
 
 ML Intern exploring:
 - Image Processing
+- Image Analytics
 - Computer Vision
 - Object Detection & Tracking
 - OpenCV
