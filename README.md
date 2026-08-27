@@ -43,7 +43,7 @@ ML Intern exploring:
 ## ImgKIT
 Lightweight image manipulation and geospatial raster processing tool built using Python and Streamlit.
 
-Features:
+Features:-
 
 - GeoTIFF Support
 - Histogram Analysis
