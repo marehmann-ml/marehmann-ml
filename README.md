@@ -9,7 +9,7 @@ ML Intern exploring:
 - Geospatial & Raster Data
 - Remote Sensing
 - Python-based Tool Development
-- 
+- Ultralytics Advanced
 ---
 
 # Tech Stack
