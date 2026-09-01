@@ -14,7 +14,6 @@ ML Intern exploring:
 
 # Tech Stack
 
-
 - Python
 - OpenCV
 - NumPy
