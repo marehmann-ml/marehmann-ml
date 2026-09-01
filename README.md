@@ -22,7 +22,6 @@ ML Intern exploring:
 - Streamlit
 - matplotlib
 - QGIS
-
 ---
 
 # Current Focus
