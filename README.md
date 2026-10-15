@@ -10,6 +10,7 @@ ML Intern exploring:
 - Remote Sensing
 - Python-based Tool Development
 - Ultralytics Advanced
+- Small object detections
 ---
 
 
