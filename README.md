@@ -1,6 +1,6 @@
 # Hi, I'm, MA Rehman Naseer 👋
 
-ML Intern exploring:
+ML Engineer exploring:
 - Image Processing
 - Image Analytics
 - Computer Vision
