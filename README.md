@@ -11,6 +11,7 @@ ML Engineer exploring:
 - Python-based Tool Development
 - Ultralytics Advanced
 - Small object detections
+- Thermal Dataset
 ---
 
 
