@@ -72,5 +72,3 @@ Topics:
 
 🔗 Repository:  
 [OpenCV - Practice](https://github.com/marehmann-ml/OpenCV-Practice.git)
-
-
