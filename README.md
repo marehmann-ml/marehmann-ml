@@ -54,8 +54,7 @@ Features:-
 - Resampling Methods
 - Multi-output Workflow
 - Metadata Extraction
-
-
+- 
 🔗 Repository:  
 [ImgKIT](https://github.com/marehmann-ml/ImgKIT)
 
