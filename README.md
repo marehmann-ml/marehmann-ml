@@ -37,8 +37,7 @@ ML Engineer exploring:
 - Raster & GeoTIFF Handling
 - Dataset Preprocessing
 - Computer Vision Workflows
-
-
+- 
 ---
 
 # Featured Projects
