@@ -9,7 +9,7 @@ ML Engineer exploring:
 - Geospatial & Raster Data
 - Remote Sensing
 - Python-based Tool Development
-- Ultralytics Advanced
+- Ultralytics Library
 - Small object detections
 - Thermal Dataset
 ---
