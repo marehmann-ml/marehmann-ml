@@ -41,7 +41,6 @@ ML Engineer exploring:
 
 # Featured Projects
 
-
 ## ImgKIT
 Lightweight image manipulation and geospatial raster processing tool built using Python and Streamlit.
 
