@@ -14,7 +14,6 @@ ML Engineer exploring:
 - Thermal & HIT Dataset
 ---
 
-
 # Tech Stack
 
 - Python
