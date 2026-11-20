@@ -1,4 +1,4 @@
-# Hi, I'm, MA Rehman Naseer 👋
+# Hi, I'm, M.A Rehman Naseer 👋
 
 ML Engineer exploring:
 - Image Processing
