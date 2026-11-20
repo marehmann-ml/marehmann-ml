@@ -55,7 +55,6 @@ Features:-
   
 🔗 Repository:  
 [ImgKIT](https://github.com/marehmann-ml/ImgKIT)
-
 ---
 
 ## OpenCV - Practice
