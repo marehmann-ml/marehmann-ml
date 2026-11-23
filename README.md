@@ -22,7 +22,6 @@ ML Engineer exploring:
 - scikit-image
 - rasterio
 - Streamlit
-- matplotlib
 - QGIS
 ---
 
