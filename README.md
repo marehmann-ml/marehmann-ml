@@ -49,7 +49,7 @@ Features:-
 - GeoTIFF Support
 - Histogram Analysis
 - Resampling Methods
-- Multi-output Workflow
+- Multi-output Workflow.
 - Metadata Extraction
   
 🔗 Repository:  
