@@ -35,7 +35,7 @@ ML Engineer exploring:
 - Object Detection
 - Raster & GeoTIFF Handling
 - Dataset Preprocessing
-- Computer Vision Workflows
+- Computer Vision Workflows.
 - 
 ---
 
