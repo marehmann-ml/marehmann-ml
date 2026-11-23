@@ -64,7 +64,7 @@ Topics:
 - YOLOv8 Inference
 - VisDrone Preprocessing
 - Custom Human Detection
-- Video Inference Pipelines
+- Video Inference Pipelines.
 
 🔗 Repository:  
 [OpenCV - Practice](https://github.com/marehmann-ml/OpenCV-Practice.git)
