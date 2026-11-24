@@ -46,7 +46,7 @@ Features:-
 
 - GeoTIFF Support
 - Histogram Analysis
-- Resampling Methods
+- Resampling Methods.
 - Multi-output Workflow.
 - Metadata Extraction
   
